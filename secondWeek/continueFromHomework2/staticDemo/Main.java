@@ -21,7 +21,7 @@ class Main {
         productManager.add(product2);
         System.out.println("------------");
 
-        DatabaseHelper.Crud.Update();
+        DatabaseHelper.Crud.update();
         DatabaseHelper.Connection.createConnection();
 
         // Best practiceler inner class kullanmayın demekte! 
