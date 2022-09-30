@@ -4,11 +4,11 @@ public class DatabaseHelper {
     
     public static class Crud { // Create , Read , Update and Delete Operations
 
-        public static void Delete() {
+        public static void delete() {
 
         }
 
-        public static void Update() {
+        public static void update() {
             
         }
 
